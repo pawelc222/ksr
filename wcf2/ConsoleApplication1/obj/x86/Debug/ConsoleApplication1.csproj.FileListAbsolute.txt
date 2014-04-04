@@ -1,0 +1,5 @@
+D:\Dokumenty\studia\sem6\ksr\wcf2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

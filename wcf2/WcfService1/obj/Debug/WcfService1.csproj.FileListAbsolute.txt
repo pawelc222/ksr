@@ -1,0 +1,5 @@
+D:\Dokumenty\studia\sem6\ksr\wcf2\WcfService1\bin\WcfService1.dll
+D:\Dokumenty\studia\sem6\ksr\wcf2\WcfService1\bin\WcfService1.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\WcfService1\obj\Debug\WcfService1.dll
+D:\Dokumenty\studia\sem6\ksr\wcf2\WcfService1\obj\Debug\WcfService1.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache

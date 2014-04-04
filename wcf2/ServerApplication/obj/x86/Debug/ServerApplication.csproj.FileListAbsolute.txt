@@ -1,0 +1,4 @@
+D:\Dokumenty\studia\sem6\ksr\wcf2\ServerApplication\bin\Debug\ServerApplication.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\ServerApplication\bin\Debug\ServerApplication.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\ServerApplication\obj\x86\Debug\ServerApplication.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\ServerApplication\obj\x86\Debug\ServerApplication.pdb

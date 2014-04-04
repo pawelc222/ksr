@@ -1,0 +1,4 @@
+D:\Dokumenty\studia\sem6\ksr\wcf1\wcf1\WcfService1\bin\WcfService1.dll
+D:\Dokumenty\studia\sem6\ksr\wcf1\wcf1\WcfService1\bin\WcfService1.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf1\wcf1\WcfService1\obj\Debug\WcfService1.dll
+D:\Dokumenty\studia\sem6\ksr\wcf1\wcf1\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,11 @@
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\bin\Debug\KlientWPF.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\bin\Debug\KlientWPF.pdb
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\MainWindow.baml
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\MainWindow.g.cs
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\App.g.cs
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF_MarkupCompile.cache
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF.g.resources
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF.Properties.Resources.resources
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF.csproj.GenerateResource.Cache
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF.exe
+D:\Dokumenty\studia\sem6\ksr\wcf2\KlientWPF\obj\x86\Debug\KlientWPF.pdb
